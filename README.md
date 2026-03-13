@@ -86,9 +86,7 @@ Spring Boot + MySQL
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanbhat07&show_icons=true&theme=tokyonight" />
-</p>
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanbhat07&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
