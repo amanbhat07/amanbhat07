@@ -88,10 +88,7 @@ Spring Boot + MySQL
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amanbhat07&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanbhat07&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanbhat07&theme=tokyonight" />
 </p>
 
 ---
