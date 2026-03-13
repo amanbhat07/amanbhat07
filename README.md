@@ -84,12 +84,6 @@ Spring Boot + MySQL
 
 ---
 
-## 📊 GitHub Stats
-
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanbhat07&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
----
-
 ## 🏆 Achievements
 
 🏅 Patent Published  
